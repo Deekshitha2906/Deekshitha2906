@@ -1,12 +1,52 @@
-- 👋 Hi, I’m @Deekshitha2906
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI
-- 📫 Reach me through my gmail deekshithabaade2906@gmail.com
-- 😄 Pronouns: Deekshu
-- ⚡ Fun fact: always think in different way
-
-<!---
-Deekshitha2906/Deekshitha2906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deekshitha Baade | Data Scientist Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Hola! I am Deekshitha Baade</h1>
+        <h2>Data Analyst | Data Researcher | Power BI Enthusiast</h2>
+    </header>
+    <main>
+        <section id="about">
+            <h3>About Me</h3>
+            <p>
+                Welcome to my portfolio! I am passionate about extracting insights from data, building dashboards, and delivering actionable business intelligence using Power BI and other tools.
+            </p>
+        </section>
+        <section id="projects">
+            <h3>Projects</h3>
+            <ul class="projects-list">
+                <li>
+                    <h4>Sales Data Dashboard (Power BI)</h4>
+                    <p>Developed an interactive dashboard for sales analytics, enabling stakeholders to monitor KPIs and trends.</p>
+                    <a href="https://github.com/Deekshitha2906/sales-dashboard" target="_blank">View Project</a>
+                </li>
+                <li>
+                    <h4>Customer Segmentation Using K-Means</h4>
+                    <p>Applied clustering techniques to segment customers and drive targeted marketing strategies.</p>
+                    <a href="https://github.com/Deekshitha2906/customer-segmentation" target="_blank">View Project</a>
+                </li>
+                <li>
+                    <h4>Data Cleaning Automation Pipeline</h4>
+                    <p>Automated data preprocessing tasks to ensure clean and reliable datasets for analysis.</p>
+                    <a href="https://github.com/Deekshitha2906/data-cleaning-pipeline" target="_blank">View Project</a>
+                </li>
+                <!-- Add more projects as needed -->
+            </ul>
+        </section>
+        <section id="contact">
+            <h3>Contact</h3>
+            <p>Email: <a href="mailto:deekshitha@example.com">deekshitha@example.com</a></p>
+            <p>GitHub: <a href="https://github.com/Deekshitha2906" target="_blank">Deekshitha2906</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Deekshitha Baade</p>
+    </footer>
+</body>
+</html>
