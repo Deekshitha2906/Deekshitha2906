@@ -1,0 +1,14 @@
+{
+  "name": "deekshitha-portfolio",
+  "version": "1.0.0",
+  "description": "Data Scientist Portfolio for Deekshitha Baade",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static files ready'",
+    "start": "echo 'Starting static server' && python3 -m http.server 3000 2>/dev/null || python -m http.server 3000 2>/dev/null || echo 'Python not available, serve files manually'",
+    "dev": "python3 -m http.server 3000 2>/dev/null || python -m http.server 3000 2>/dev/null || echo 'Development server: Open index.html in browser'"
+  },
+  "keywords": ["portfolio", "data-science", "power-bi", "data-analyst"],
+  "author": "Deekshitha Baade",
+  "license": "MIT"
+}
