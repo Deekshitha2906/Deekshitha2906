@@ -14,8 +14,8 @@ This portfolio highlights my work as a Data Analyst and Data Researcher, with a 
 
 ## Contact
 
-- Email: deekshitha@example.com
-- GitHub: [Deekshitha2906](https://github.com/Deekshitha2906)
+- Email: deekshithabaade2906@gmail.com
+- GitHub: [Deekshitha2906](https://github.com/Deekshithabaade2906)
 
 ## Deployment
 
